@@ -2,6 +2,7 @@ package com.levelvini.rodeira.ToDoList.entities;
 
 import jakarta.persistence.*;
 import lombok.*;
+import org.springframework.stereotype.Component;
 
 import java.util.List;
 
